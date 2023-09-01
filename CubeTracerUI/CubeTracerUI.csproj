@@ -7,6 +7,7 @@
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
     <StartupObject>CubeTracerUI.Program</StartupObject>
+    <Platforms>AnyCPU;x86;x64</Platforms>
     
   </PropertyGroup>
 
